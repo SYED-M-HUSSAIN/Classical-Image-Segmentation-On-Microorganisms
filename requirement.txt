@@ -1,0 +1,4 @@
+opencv-python==4.5.3.56
+SimpleITK==2.1.1
+numpy==1.21.2
+matplotlib==3.4.3
