@@ -39,6 +39,9 @@ git clone https://github.com/SYED-M-HUSSAIN/Classical-Image-Segmentation-On-Micr
 Here are the segmented images produced by each algorithm on test folder images:
 ![Segmented Results](https://github.com/SYED-M-HUSSAIN/Classical-Image-Segmentation-On-Microorganisms/blob/main/segmentation_results/segmentation_results.png)
 
+These segmentation algorithms can be used for various applications, including medical image analysis, object detection, and image processing tasks.
+Contributions are welcome! If you have any ideas for improvement or new segmentation algorithms to add, feel free to open an issue or submit a pull request.
 
 ## References
 [OpenCV](https://opencv.org/) and [SimpleITK](https://simpleitk.org/)
+
